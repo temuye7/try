@@ -1,1 +1,10 @@
-here is my trial version
+Even though modern websites are generally built with user
+-friendly interfaces, it's useful to know some basic HTML
+. If you know the following 17 HTML example tags (and a few extras), 
+you'll be able to create a basic webpage from 
+scratch or tweak the code created by an app like WordPress.
+
+We've provided HTML code examples with output for most of the tags. 
+If you want to test them for yourself, copy the HTML samples into
+ your own document. You can play around with them in a text editor
+  and load up your file in a browser to see what your changes do.
